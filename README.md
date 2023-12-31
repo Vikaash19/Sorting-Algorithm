@@ -58,7 +58,9 @@ print(nums)
 ## Output:
 (i) Selection Sort
 ![selection sort](https://github.com/Vikaash19/Sorting-Algorithm/assets/148514589/99e22921-72c6-4d2c-84e4-a0076945b255)
+
 (ii)	Insertion Sort
 ![insertion sort](https://github.com/Vikaash19/Sorting-Algorithm/assets/148514589/35ac5847-6896-4745-b43d-008c5b1dddd2)
+
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
